@@ -5,6 +5,4 @@
 
 ![my image](https://i.pinimg.com/1200x/13/69/b5/1369b5627084f29a35386c0415dbb730.jpg)
 
-[![my image](https://i.pinimg.com/1200x/cd/4a/63/cd4a636180f14ac8a658ed082fef1ee2.jpg)
-
-[![my image](https://i.pinimg.com/1200x/d9/4b/30/d94b3074299b62203dcf0755690e9a40.jpg)
+[![my image](https://i.pinimg.com/736x/3e/20/84/3e2084f58974529d88e3bb2183138ddc.jpg)
